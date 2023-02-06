@@ -1,5 +1,5 @@
 # My Personal Portfolio
-#### Video Demo:  <https://youtu.be/EUZ5Rg2lPiI>
+
 #### Description:
 This is my Personal Portfolio Website for CS50 Final Project. 
 
