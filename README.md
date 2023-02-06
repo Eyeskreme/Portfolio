@@ -1,7 +1,7 @@
 # My Personal Portfolio
 
 #### Description:
-This is my Personal Portfolio Website for CS50 Final Project. 
+
 
 I use NEXTJS and ReactJS frameworks in Javascript to create this website. It is mainly a front-end web development project with dynamic and interactive User Interface to enhance my website to the users. You can see my journey in my learning of IT and especially in programming domain during my course of study. 
 
